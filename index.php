@@ -55,7 +55,7 @@
         </li>
       </ul>
     </div>
-  </nav>
+          </nav>
   <!--/.Navbar -->
 
   <div class="py-5 shadow" style="background:linear-gradient(-45deg, #3923a7 50%, transparent 50%)">

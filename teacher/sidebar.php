@@ -162,7 +162,7 @@
               <li class="nav-item">
                 <a href="<?=$site_url?>teacher/subjects.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Subects</p>
+                  <p>subjects</p>
                 </a>
               </li>
               <li class="nav-item">
@@ -252,7 +252,7 @@
               <li class="nav-item">
                 <a href="<?=$site_url?>teacher/study-materials.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Study Mterials</p>
+                  <p>Study materials</p>
                 </a>
               </li>
             </ul>              

@@ -246,12 +246,6 @@
                   <p>Periods</p>
                 </a>
               </li>
-              <li class="nav-item">
-                <a href="<?=$site_url?>admin/timetable.php" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Time Table</p>
-                </a>
-              </li>
             </ul>
           </li>
 
